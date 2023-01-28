@@ -1,0 +1,8 @@
+[package]
+name = "crab_os"
+version = "0.1.0"
+authors = ["Adam Tamer"]
+edition = "2021"
+
+[dependencies]
+bootloader = "0.9.8"
